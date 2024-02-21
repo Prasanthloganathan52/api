@@ -1,6 +1,6 @@
-API Integration
+public api
 
-Dynamic Data: Real-time data from an API is fetched and displayed on the webpage.
+Dynamic Data: Real-time data from an API is fetched and displayed on the webpage.                                                    
 
 Responsive Design: The website is responsive and works well on various devices and screen sizes.
 
