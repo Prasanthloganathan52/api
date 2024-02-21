@@ -9,3 +9,5 @@ Bootstrap Styling: Bootstrap is used for styling to create a visually appealing 
 Easy to Use: Users can access the latest data from the API in a clear and organized manner.
 
 Fetch the data from API in async-await using DOM.
+
+Demo A live demo of the project can be found https://apipublic.netlify.app
