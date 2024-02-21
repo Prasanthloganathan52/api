@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  .card {
+    background-color: #9aeff4;
+    border: none;
+    box-shadow: 1px 3px 7px #ffff;
+  }
+  .row {
+    margin: 65px 100px;
+  }
